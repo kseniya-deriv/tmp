@@ -1,0 +1,7 @@
+.chart-page.on-widget {
+    background-color: blueviolet;
+}
+
+div#loading-indicator.loading-indicator {
+    width: 1%;
+}
